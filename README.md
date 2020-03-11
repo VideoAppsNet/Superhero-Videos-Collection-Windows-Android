@@ -9,7 +9,7 @@ http://51.91.170.33/W10/CollectionApps/superheroVideos/
 <br/>
 Android Direct Download:
 <br/>
-http://51.91.170.33/Android/CollectionApps/superheroVideos.superheroVideos.apk
+http://51.91.170.33/Android/CollectionApps/superHeroCartoons.superHeroCartoons.apk
 <br/>
 <br/>
 Zip:
